@@ -3,7 +3,7 @@ CODE TEMPLATE:
 //Different syntax is used for comments depending on the language.
 
 //CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Marion Henry
 
 
 if (CHANGE ME: condition # 1) {
