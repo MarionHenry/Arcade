@@ -3,25 +3,25 @@ CODE TEMPLATE:
 //Different syntax is used for comments depending on the language.
 
 //CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//Marion Henry
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (I'm thirsty) {
+    //Look for water
 } else {
-    //Add event below
+    //Drink something else
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (I'm tired) {
+    //Finish up my work
 } else {
-    //Add event below
+    //Go to bed
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (I'm hungry) {
+    //Find a snack
 } else {
-    //Add event below
+    //Cook
 }
 
 
